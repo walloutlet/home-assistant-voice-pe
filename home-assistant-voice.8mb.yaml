@@ -6,6 +6,7 @@ esphome:
   project:
     name: Nabu Casa.Home Assistant Voice PE
     version: dev
+  compile_process_limit: 2
 
 esp32:
   flash_size: 8MB
